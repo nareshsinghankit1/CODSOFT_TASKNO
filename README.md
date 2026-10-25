@@ -23,7 +23,7 @@ My tasks for the CodSoft Data Science internship.
 - Insight: TV advertising has the strongest effect on sales (correlation 0.9), Newspaper the weakest (0.16)
 - File: Task_3_Sales_Prediction.ipynb
 
-##Task Completed
--[x] Iris Flower Classification
--[x] Titanic Survival Prediction
--[x] Sales Prediction
+## Task Completed
+- [x] Iris Flower Classification
+- [x] Titanic Survival Prediction
+- [x] Sales Prediction
